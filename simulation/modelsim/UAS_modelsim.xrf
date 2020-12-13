@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, A:/Tugas/Semester 5/DSD/UAS/ALU.v
+source_file = 1, A:/Tugas/Semester 5/DSD/UAS/Control_Unit.v
+source_file = 1, A:/Tugas/Semester 5/DSD/UAS/Data_Memory.v
+source_file = 1, A:/Tugas/Semester 5/DSD/UAS/Datapath_Unit.v
+source_file = 1, A:/Tugas/Semester 5/DSD/UAS/GPRs.v
+source_file = 1, A:/Tugas/Semester 5/DSD/UAS/Instruction_Memory.v
+source_file = 1, A:/Tugas/Semester 5/DSD/UAS/Parameter.v
+source_file = 1, A:/Tugas/Semester 5/DSD/UAS/Risc_16_bit.v
+source_file = 1, A:/Tugas/Semester 5/DSD/UAS/Risc_16_bit_tb.v
+source_file = 1, A:/Tugas/Semester 5/DSD/UAS/alu_control.v
+source_file = 1, A:/Tugas/Semester 5/DSD/UAS/db/UAS.cbx.xml
+design_name = Risc_16_bit
+instance = comp, \clk~input , clk~input, Risc_16_bit, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, Risc_16_bit, 1

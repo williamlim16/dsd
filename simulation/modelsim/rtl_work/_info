@@ -1,0 +1,235 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dA:/Tugas/Semester 5/DSD/UAS/simulation/modelsim
+vALU
+!s110 1607866482
+!i10b 1
+!s100 @GMbLJV`Bh^2J_S1?m@nc2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IIN`Y4m6^@;1cg6Edb;3A40
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1607249644
+8A:/Tugas/Semester 5/DSD/UAS/ALU.v
+FA:/Tugas/Semester 5/DSD/UAS/ALU.v
+!i122 0
+L0 5 28
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1607866482.000000
+!s107 A:/Tugas/Semester 5/DSD/UAS/ALU.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+A:/Tugas/Semester 5/DSD/UAS|A:/Tugas/Semester 5/DSD/UAS/ALU.v|
+!i113 1
+Z4 o-vlog01compat -work work
+Z5 !s92 -vlog01compat -work work {+incdir+A:/Tugas/Semester 5/DSD/UAS}
+Z6 tCvgOpt 0
+n@a@l@u
+valu_control
+Z7 !s110 1607866484
+!i10b 1
+!s100 H;@h]`hTW:hd_a4J:2>ee2
+R1
+IiN>8[6Dec1<705fcODoLN2
+R2
+R0
+w1607860230
+8A:/Tugas/Semester 5/DSD/UAS/alu_control.v
+FA:/Tugas/Semester 5/DSD/UAS/alu_control.v
+!i122 5
+L0 5 21
+R3
+r1
+!s85 0
+31
+Z8 !s108 1607866483.000000
+!s107 A:/Tugas/Semester 5/DSD/UAS/alu_control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+A:/Tugas/Semester 5/DSD/UAS|A:/Tugas/Semester 5/DSD/UAS/alu_control.v|
+!i113 1
+R4
+R5
+R6
+vControl_Unit
+Z9 !s110 1607866483
+!i10b 1
+!s100 ^lzR65bG]n=_n0F7mjaoZ3
+R1
+IaciC8D7X]97zbc@n2b4zN1
+R2
+R0
+w1607860749
+8A:/Tugas/Semester 5/DSD/UAS/Control_Unit.v
+FA:/Tugas/Semester 5/DSD/UAS/Control_Unit.v
+!i122 1
+L0 6 274
+R3
+r1
+!s85 0
+31
+R8
+!s107 A:/Tugas/Semester 5/DSD/UAS/Control_Unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+A:/Tugas/Semester 5/DSD/UAS|A:/Tugas/Semester 5/DSD/UAS/Control_Unit.v|
+!i113 1
+R4
+R5
+R6
+n@control_@unit
+vData_Memory
+R7
+!i10b 1
+!s100 RQ29o6_1b]XKHb6KKLadg3
+R1
+Iz0@^1LWzTCAB_d_J01?^J2
+R2
+R0
+w1607605468
+8A:/Tugas/Semester 5/DSD/UAS/Data_Memory.v
+FA:/Tugas/Semester 5/DSD/UAS/Data_Memory.v
+!i122 6
+L0 7 39
+R3
+r1
+!s85 0
+31
+Z10 !s108 1607866484.000000
+!s107 A:/Tugas/Semester 5/DSD/UAS/Parameter.v|A:/Tugas/Semester 5/DSD/UAS/Data_Memory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+A:/Tugas/Semester 5/DSD/UAS|A:/Tugas/Semester 5/DSD/UAS/Data_Memory.v|
+!i113 1
+R4
+R5
+R6
+n@data_@memory
+vDatapath_Unit
+R9
+!i10b 1
+!s100 Vk08^SeAb[O5e;d^;zSXT3
+R1
+IPT[omam]SagFQL_ZP_B8h3
+R2
+R0
+w1607860831
+8A:/Tugas/Semester 5/DSD/UAS/Datapath_Unit.v
+FA:/Tugas/Semester 5/DSD/UAS/Datapath_Unit.v
+!i122 2
+L0 6 110
+R3
+r1
+!s85 0
+31
+R8
+!s107 A:/Tugas/Semester 5/DSD/UAS/Datapath_Unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+A:/Tugas/Semester 5/DSD/UAS|A:/Tugas/Semester 5/DSD/UAS/Datapath_Unit.v|
+!i113 1
+R4
+R5
+R6
+n@datapath_@unit
+vGPRs
+R9
+!i10b 1
+!s100 DTdlAOj9^R7;jZl;3fkU43
+R1
+I=8LP2GZH8<GdLV0bg;KSz3
+R2
+R0
+w1607861282
+8A:/Tugas/Semester 5/DSD/UAS/GPRs.v
+FA:/Tugas/Semester 5/DSD/UAS/GPRs.v
+!i122 3
+L0 6 42
+R3
+r1
+!s85 0
+31
+R8
+!s107 A:/Tugas/Semester 5/DSD/UAS/GPRs.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+A:/Tugas/Semester 5/DSD/UAS|A:/Tugas/Semester 5/DSD/UAS/GPRs.v|
+!i113 1
+R4
+R5
+R6
+n@g@p@rs
+vInstruction_Memory
+R7
+!i10b 1
+!s100 <_dNJGT0_cEo][Cf`k9_e1
+R1
+IOP`T>GbATM^B<Lj8oa_I00
+R2
+R0
+w1607866275
+8A:/Tugas/Semester 5/DSD/UAS/Instruction_Memory.v
+FA:/Tugas/Semester 5/DSD/UAS/Instruction_Memory.v
+!i122 7
+L0 6 35
+R3
+r1
+!s85 0
+31
+R10
+!s107 A:/Tugas/Semester 5/DSD/UAS/Parameter.v|A:/Tugas/Semester 5/DSD/UAS/Instruction_Memory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+A:/Tugas/Semester 5/DSD/UAS|A:/Tugas/Semester 5/DSD/UAS/Instruction_Memory.v|
+!i113 1
+R4
+R5
+R6
+n@instruction_@memory
+vRisc_16_bit
+R9
+!i10b 1
+!s100 hh<gI2kEcejFbGh5hNMKb1
+R1
+IgWC=ZNj3C><:zJE>4]ZIP1
+R2
+R0
+w1607860769
+8A:/Tugas/Semester 5/DSD/UAS/Risc_16_bit.v
+FA:/Tugas/Semester 5/DSD/UAS/Risc_16_bit.v
+!i122 4
+L0 6 45
+R3
+r1
+!s85 0
+31
+R8
+!s107 A:/Tugas/Semester 5/DSD/UAS/Risc_16_bit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+A:/Tugas/Semester 5/DSD/UAS|A:/Tugas/Semester 5/DSD/UAS/Risc_16_bit.v|
+!i113 1
+R4
+R5
+R6
+n@risc_16_bit
+vRisc_16_bit_tb
+R7
+!i10b 1
+!s100 9ncBUgRfM=z=f4;Q79:SJ0
+R1
+IMOV]=X?ENCP_To]4Jm=zK1
+R2
+R0
+w1607249842
+8A:/Tugas/Semester 5/DSD/UAS/Risc_16_bit_tb.v
+FA:/Tugas/Semester 5/DSD/UAS/Risc_16_bit_tb.v
+!i122 8
+L0 7 22
+R3
+r1
+!s85 0
+31
+R10
+!s107 A:/Tugas/Semester 5/DSD/UAS/Parameter.v|A:/Tugas/Semester 5/DSD/UAS/Risc_16_bit_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+A:/Tugas/Semester 5/DSD/UAS|A:/Tugas/Semester 5/DSD/UAS/Risc_16_bit_tb.v|
+!i113 1
+R4
+R5
+R6
+n@risc_16_bit_tb

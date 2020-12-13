@@ -1,0 +1,186 @@
+# Reading pref.tcl
+# do UAS_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying A:/Quartus/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+A:/Tugas/Semester\ 5/DSD/UAS {A:/Tugas/Semester 5/DSD/UAS/ALU.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:34:42 on Dec 13,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+A:/Tugas/Semester 5/DSD/UAS" A:/Tugas/Semester 5/DSD/UAS/ALU.v 
+# -- Compiling module ALU
+# 
+# Top level modules:
+# 	ALU
+# End time: 20:34:42 on Dec 13,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+A:/Tugas/Semester\ 5/DSD/UAS {A:/Tugas/Semester 5/DSD/UAS/Control_Unit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:34:43 on Dec 13,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+A:/Tugas/Semester 5/DSD/UAS" A:/Tugas/Semester 5/DSD/UAS/Control_Unit.v 
+# -- Compiling module Control_Unit
+# 
+# Top level modules:
+# 	Control_Unit
+# End time: 20:34:43 on Dec 13,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+A:/Tugas/Semester\ 5/DSD/UAS {A:/Tugas/Semester 5/DSD/UAS/Datapath_Unit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:34:43 on Dec 13,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+A:/Tugas/Semester 5/DSD/UAS" A:/Tugas/Semester 5/DSD/UAS/Datapath_Unit.v 
+# -- Compiling module Datapath_Unit
+# 
+# Top level modules:
+# 	Datapath_Unit
+# End time: 20:34:43 on Dec 13,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+A:/Tugas/Semester\ 5/DSD/UAS {A:/Tugas/Semester 5/DSD/UAS/GPRs.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:34:43 on Dec 13,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+A:/Tugas/Semester 5/DSD/UAS" A:/Tugas/Semester 5/DSD/UAS/GPRs.v 
+# -- Compiling module GPRs
+# 
+# Top level modules:
+# 	GPRs
+# End time: 20:34:43 on Dec 13,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+A:/Tugas/Semester\ 5/DSD/UAS {A:/Tugas/Semester 5/DSD/UAS/Parameter.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:34:43 on Dec 13,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+A:/Tugas/Semester 5/DSD/UAS" A:/Tugas/Semester 5/DSD/UAS/Parameter.v 
+# End time: 20:34:43 on Dec 13,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+A:/Tugas/Semester\ 5/DSD/UAS {A:/Tugas/Semester 5/DSD/UAS/Risc_16_bit.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:34:43 on Dec 13,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+A:/Tugas/Semester 5/DSD/UAS" A:/Tugas/Semester 5/DSD/UAS/Risc_16_bit.v 
+# -- Compiling module Risc_16_bit
+# 
+# Top level modules:
+# 	Risc_16_bit
+# End time: 20:34:43 on Dec 13,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+A:/Tugas/Semester\ 5/DSD/UAS {A:/Tugas/Semester 5/DSD/UAS/alu_control.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:34:43 on Dec 13,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+A:/Tugas/Semester 5/DSD/UAS" A:/Tugas/Semester 5/DSD/UAS/alu_control.v 
+# -- Compiling module alu_control
+# 
+# Top level modules:
+# 	alu_control
+# End time: 20:34:44 on Dec 13,2020, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+A:/Tugas/Semester\ 5/DSD/UAS {A:/Tugas/Semester 5/DSD/UAS/Data_Memory.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:34:44 on Dec 13,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+A:/Tugas/Semester 5/DSD/UAS" A:/Tugas/Semester 5/DSD/UAS/Data_Memory.v 
+# -- Compiling module Data_Memory
+# 
+# Top level modules:
+# 	Data_Memory
+# End time: 20:34:44 on Dec 13,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+A:/Tugas/Semester\ 5/DSD/UAS {A:/Tugas/Semester 5/DSD/UAS/Instruction_Memory.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:34:44 on Dec 13,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+A:/Tugas/Semester 5/DSD/UAS" A:/Tugas/Semester 5/DSD/UAS/Instruction_Memory.v 
+# -- Compiling module Instruction_Memory
+# 
+# Top level modules:
+# 	Instruction_Memory
+# End time: 20:34:44 on Dec 13,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+A:/Tugas/Semester\ 5/DSD/UAS {A:/Tugas/Semester 5/DSD/UAS/Risc_16_bit_tb.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:34:44 on Dec 13,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+A:/Tugas/Semester 5/DSD/UAS" A:/Tugas/Semester 5/DSD/UAS/Risc_16_bit_tb.v 
+# -- Compiling module Risc_16_bit_tb
+# 
+# Top level modules:
+# 	Risc_16_bit_tb
+# End time: 20:34:44 on Dec 13,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  Risc_16_bit_tb
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" Risc_16_bit_tb 
+# Start time: 20:34:44 on Dec 13,2020
+# Loading work.Risc_16_bit_tb
+# Loading work.Risc_16_bit
+# Loading work.Datapath_Unit
+# Loading work.Instruction_Memory
+# Loading work.GPRs
+# Loading work.alu_control
+# Loading work.ALU
+# Loading work.Data_Memory
+# Loading work.Control_Unit
+# 
+# add wave *
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: William  Hostname: DESKTOP-IVHHQC0  ProcessID: 9680
+#           Attempting to use alternate WLF file "./wlft92c7xv".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft92c7xv
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+add wave -position end  sim:/Risc_16_bit_tb/uut/clk
+add wave -position end  sim:/Risc_16_bit_tb/uut/DU/opcode
+add wave -position end  sim:/Risc_16_bit_tb/uut/DU/pc_current
+add wave -position end  sim:/Risc_16_bit_tb/uut/DU/pc_next
+add wave -position end  sim:/Risc_16_bit_tb/uut/DU/reg_file/reg_array
+add wave -position end  sim:/Risc_16_bit_tb/uut/DU/dm/memory
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# End time: 20:36:11 on Dec 13,2020, Elapsed time: 0:01:27
+# Errors: 0, Warnings: 0
